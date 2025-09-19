@@ -1,0 +1,8 @@
+:root{
+    --header-height: 120px;
+    --sidebar-width: 250px;
+    --theme-color: bisque;
+    --light-theme-color: rgb(255, 244, 232);
+    --accent-color: rgb(133, 33, 33);
+    --shop-border-radius: 20px;
+}
